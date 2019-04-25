@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ProjectNotes/static/css/main.584f321a.chunk.css",
+    "main.js": "/ProjectNotes/static/js/main.f24d2fbc.chunk.js",
+    "main.js.map": "/ProjectNotes/static/js/main.f24d2fbc.chunk.js.map",
+    "runtime~main.js": "/ProjectNotes/static/js/runtime~main.8b4931c1.js",
+    "runtime~main.js.map": "/ProjectNotes/static/js/runtime~main.8b4931c1.js.map",
+    "static/js/2.b41502e9.chunk.js": "/ProjectNotes/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/ProjectNotes/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/ProjectNotes/index.html",
+    "precache-manifest.d2ae1fbe4f94a602a3dfcb3cb7af73c4.js": "/ProjectNotes/precache-manifest.d2ae1fbe4f94a602a3dfcb3cb7af73c4.js",
+    "service-worker.js": "/ProjectNotes/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/ProjectNotes/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/ProjectNotes/static/media/logo.5d5d9eef.svg"
+  }
+}
